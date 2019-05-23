@@ -16,7 +16,7 @@
 下载与自己chrome对应的chromedreiver，下载之后 移动到/usr/local/bin底下
 
 ```
-mv chromedriver /usr.local.bin
+mv chromedriver /usr/local/bin
 ```
 
 ```
