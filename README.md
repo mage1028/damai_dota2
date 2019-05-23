@@ -23,3 +23,7 @@ mv chromedriver /usr.local.bin
 chromedriver -v
 ```
 有版本信息安装成功
+
+## 流程
+
+进去之后扫码登陆，选到dota2页面，填好邀请码，狂点按钮就行，进去之后软件会自动下单。
