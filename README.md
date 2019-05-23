@@ -11,7 +11,7 @@
 
  不说了
  
-#### chromedriver
+#### chromedriver（macOS）
 
 下载与自己chrome对应的chromedreiver，下载之后 移动到/usr/local/bin底下
 
